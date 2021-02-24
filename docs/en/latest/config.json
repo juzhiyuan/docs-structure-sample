@@ -2,6 +2,6 @@
   "version": 2.4,
   "sidebar": {
     "Get Involved": ["getting-started"],
-    "Plugins": ["jwt-auth-id", "key-auth-id"]
+    "Plugins": ["plugins/jwt-auth-id", "plugins/key-auth-id"]
   }
 }
